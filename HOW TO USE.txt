@@ -3,7 +3,7 @@ KENSETECH BY NOSTRAQ
 
 EN:
 -----------------------------------
-Don't forget instal the libs
+Don't forget install the libs
 ------------------------------
 pip install pyqrcode
 pip install pypng
