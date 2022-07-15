@@ -1,0 +1,33 @@
+KENSETECH BY NOSTRAQ
+
+
+EN:
+-----------------------------------
+Don't forget instal the libs
+------------------------------
+pip install pyqrcode
+pip install pypng
+pip install matplotlib
+pip install opencv-python
+----------------------------------
+for using:
+
+Edit with idle or your IDE 
+Paste your link at 9th line
+Run
+
+
+TR
+--------------------------------
+Kütüphaneleri kurmayı unutmayınız
+-----------------------------------
+pip install pyqrcode
+pip install pypng
+pip install matplotlib
+pip install opencv-python
+----------------------------------
+Kullanımı için:
+
+Dosyayı idle ile açın ya da kendi IDE'nizi kullanarak düzenleyin
+Linkinizi 9. satırdaki yere yapıştırın
+Çalıştırın
